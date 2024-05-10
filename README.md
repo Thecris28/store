@@ -1,8 +1,16 @@
-# React + Vite
+# Tienda con React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Desarrollada con react como parte de un proyecto de un curso de Udemy
 
-Currently, two official plugins are available:
+Para ejecutar en local :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clonar repositorio ``` git clone ```
+2. Ejecutar ``` npm install ``` 
+3. Ejecutar ``` npm run dev ```
+4. Ahora ya puedes visualizar la app 
+
+para ver version online ```https://regal-jelly-97933b.netlify.app/```
+
+
+
+
